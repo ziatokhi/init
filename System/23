@@ -1,0 +1,5 @@
+#Explain how connect yourself as new user. (With graphic session and ssh session)
+
+graphics:  prompt for username and password
+
+ssh username@hostname and then password

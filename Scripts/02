@@ -1,0 +1,7 @@
+#Write a script which delete an ACTIVE user on the VM.
+  
+#!/bin/bash
+
+echo 'enter the user name to delete'
+read USER
+userdel $USER
